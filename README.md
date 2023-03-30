@@ -2,7 +2,7 @@
 An RP2040 based IoT/cellular device. Essentially a cell phone but very bulky.
 
 # Why it's called "Cellulith"
-Lith means rock or stone. For example, the Earths crust is called the lithosphere because its a sphere of rock.
+Lith means rock or stone. For example, the Earths crust is called the lithosphere because it's a sphere of rock.
 
 Cellu comes from cellular, like cellular phone.
 
