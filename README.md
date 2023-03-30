@@ -1,6 +1,8 @@
 # Cellulith
 An RP2040 based IoT/cellular device. Essentially a cell phone but very bulky.
 
+![alt text](https://github.com/AdansWorkshop/Cellulith/blob/main/dfwegg.png?raw=true)
+
 # Why it's called "Cellulith"
 Lith means rock or stone. For example, the Earths crust is called the lithosphere because it's a sphere of rock.
 
