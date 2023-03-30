@@ -26,7 +26,7 @@ Digital PWM Audio
 Haptic Feedback for SMS/Voice Call notifications
 
 # Board Dimensions
-3.8x2.6 inches with M3 mounting holes in all 4 corners
+3.8" by 2.6" with M3 mounting holes in all 4 corners
 
 # Case Dimensions
-4.2x3x0.95 inches excluding antenna
+4.2" by 3" by 0.95" excluding antenna
